@@ -23,3 +23,5 @@ Formatting documentation for '.md' files:
 ## Useful commands
  - 'git status' or 'git status -s' (short): Display whether files have been modified, whether they are staged to be committed
  - 'git add': Add a file to be commited. Note that it takes a snapshot of the file at the time of adding, so any modification after invoking this will not be retained.
+ - test...
+ 

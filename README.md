@@ -5,7 +5,7 @@ Hello humans!
 I've had tacos on the moon and find them far superior to earth tacos.
 
 Tutorial found here:
-https://guides.github.com/activities/hello-world/
+> https://guides.github.com/activities/hello-world/
 
 - Create repo
 - Create branch for experimentation
@@ -13,3 +13,7 @@ https://guides.github.com/activities/hello-world/
 - Create pull request for branch
 - Merge pull request
 - Delete branch
+
+
+Formatting documentation for '.md' files:
+> https://help.github.com/articles/basic-writing-and-formatting-syntax/
